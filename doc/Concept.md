@@ -84,7 +84,7 @@ is a utility provided as part of the libpod library. It can be used to create an
 
 ---
 
-[![Click to Watch Demo Video](https://asciinema.org/a/zmxGxjGEJg298gB4Z9H9RUvwI.png)](https://asciinema.org/a/zmxGxjGEJg298gB4Z9H9RUvwI)
+![](653651.gif)
 
 # Conclusion
 
