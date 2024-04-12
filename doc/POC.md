@@ -28,4 +28,4 @@ k -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}
 
 3. Then follow the next video
 
-![](argocd-gui.mp4)
+https://github.com/Art-of-D/AsciiArtify/assets/114071335/d786affc-a64e-478a-a065-f2a3c82058da
